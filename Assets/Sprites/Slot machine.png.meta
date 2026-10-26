@@ -1,0 +1,6029 @@
+fileFormatVersion: 2
+guid: c3a1b4e1a69502946aea3036302c1aa3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9123127301424358690
+    second: Slot machine_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: 0
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slot machine_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1168
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225211ab1fbdb9e70800000000000000
+      internalID: 9123127301424358690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1168
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc2dd1f27f9b8f47920885d894c7931
+      internalID: 1473838342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1168
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34887a7c13293f46a5e07debdce39ea
+      internalID: 1730367712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1168
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c3a08e5cb98e34d8ea83b79abf5f6c
+      internalID: -467501115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1168
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43df51017c79cb647bb7abb9846c9ff8
+      internalID: 915863608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1168
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275b936a8b753084aa62f18b0b7fd260
+      internalID: -522728624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1168
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e5a467ba8157d4db81c225150c5e98
+      internalID: 792429775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_7
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1168
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5b7fcfff3f44e429ae8be83148e98f
+      internalID: 67431379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_8
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1168
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0e82b52b2a90f43b6c1e8bcb33f312
+      internalID: 1335870686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_9
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1168
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d281c47a34ca74d43a5d66c2c681428b
+      internalID: 1350303681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_10
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1168
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8075ad6bedcd3dd4ea24a64c5f75966a
+      internalID: 1880701349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_11
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1168
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68662a18df7ac4543bad77d12ff7c7e0
+      internalID: -368573786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_12
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1168
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a3b28c8923db04c98816703fdec29d
+      internalID: -601516173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_13
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1168
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24bb99361e038e48a31d3ca21351634
+      internalID: 99269499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_14
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1168
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e2d1ebee58f8e4ab852a0883dd8c25
+      internalID: 480196440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_15
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1168
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d1f9418fcb11743ae44bd21db05fed
+      internalID: 3872220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1091
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba15a34f88d2bc4da699dceb43836ad
+      internalID: 492511428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1091
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef84a505af46b8479dfa89fbfe8727a
+      internalID: -1978027623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1091
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8721dd452f2e84c9da40fa2ca0fbcf
+      internalID: -766230124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_19
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1091
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee01c2a3df031a46a676f29494fe549
+      internalID: -360218520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_20
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1091
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4372569aa9b803143bf828809f61e005
+      internalID: -2049843992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_21
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1091
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bd24ad5abcc034f91fef846019f13f
+      internalID: 494822525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_22
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1091
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96ea8392b6db574885b7248b6489750
+      internalID: -492753885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_23
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1091
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a446b099721b554bac491073b8eee99
+      internalID: 1894482611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_24
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1091
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c0e6de1a07cfc4a917e7b659defa88
+      internalID: 2134363103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_25
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1091
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f3be0cff75a8444bfd9281a78a87b9
+      internalID: 312511292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_26
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1091
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b7b6359847ee84f8940ae41de1d7b3
+      internalID: -1962684611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_27
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1091
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786f26ad19342704dad23f9d828afe52
+      internalID: -1084251509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_28
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1091
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a27ce79683018548bba035d2992e357
+      internalID: -900862155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_29
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1091
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da479d9590e9414aad8b1138dd10001
+      internalID: 678002154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_30
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1091
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06789aed48583bd479eba83b0f4a4c26
+      internalID: -1491134761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_31
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1091
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b8e643e6f7a8a49ba8b613c568f70f
+      internalID: 716711356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1014
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7d812e1fb5f0b429adbc7c5b779196
+      internalID: -1366371811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1014
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29d9e9359673fb4dbf3d1e328748f69
+      internalID: 1268915580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_34
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1014
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4dfeaad03eede48987e82e286afd04
+      internalID: -1600760806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_35
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1014
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6b97a85f05d884a94daa6f2ab45521
+      internalID: -72480098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_36
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1014
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b65945dd887014989ab8c7be02fa77
+      internalID: 381317365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_37
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1014
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800edce8309a66c46b6efa83f6199f54
+      internalID: -420947094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_38
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1014
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d951bc049abc5c4a89c254ac6b47ace
+      internalID: 1424914951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_39
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1014
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909192fed8822344aa2c32b7245792be
+      internalID: -1073111224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_40
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1014
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c73e5b3e9dd944eb50d8a02b236ca9
+      internalID: -1246344571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_41
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1014
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee51f214c56d664382a0327e2c66775
+      internalID: -1126829629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_42
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1014
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91a894e4c152d147bcb52c2e7ada3fc
+      internalID: -980985011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_43
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1014
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ef53b142cdb8148bc55b6ff3995321
+      internalID: -654753879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_44
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1014
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7449d831f64023641b2d19487262400e
+      internalID: -625234698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_45
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1014
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d948cd114336ea54d891201c0f8a3f54
+      internalID: 344228708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_46
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1014
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d210177d88f3a40ba7f13ab633376d
+      internalID: 2081794070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_47
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1014
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300146fd57d90d84d8ef28d7c8ded683
+      internalID: -1271587337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 937
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0e60c9b3930f9409e2d954ba7f0f9a
+      internalID: 1309025950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_49
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 937
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86e6e8ec97f06946a3e4fb5fba2d27c
+      internalID: 1447603534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_50
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 937
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd16afd677bb724ba6933bc305cd9ab
+      internalID: 1463184101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_51
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 937
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf29d2b2dc9f28548ac8c0a864914d5e
+      internalID: 540308007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_52
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 937
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77abe4f27c70e774cbeb148e81eab1ee
+      internalID: 1799535352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_53
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 937
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f9cf82a9f60bf4cb0df04234d9c2e4
+      internalID: 379181462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_54
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 937
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab38100eee543384c9d09f4cf8fced1e
+      internalID: -247319489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_55
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 937
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab81163735e00d94db22cff8000caca8
+      internalID: 2108470864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_56
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 937
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7805656171e6114e96cfd4130473a79
+      internalID: 2054963366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_57
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 937
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d671f19fb49b82b4b955a73658eb0f34
+      internalID: 105456584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_58
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 937
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d04427eba43744aa4e57f49391228e
+      internalID: 77349104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_59
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 937
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78a2a172c21b2244a3a63e66436a0aa
+      internalID: -1512769674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_60
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 937
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf1f5b3344f4f2498d9149c394a483c
+      internalID: -1496359257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_61
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 937
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c796ad445e1b045a50002551a82d43
+      internalID: 19174903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_62
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 937
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3275ea456559a0a428358bf9bfe8ee31
+      internalID: 1743973416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_63
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 937
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43faa6bb63db30e45856394797d16e38
+      internalID: -502868262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 860
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e0257158bf4524eac1ebd413ed9ae0
+      internalID: 1500719647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_65
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 860
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaaca847368e4842997eb0c5dbcb55f
+      internalID: 1416530454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_66
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 860
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00050804b88372e40bbfc2cef1afed36
+      internalID: 1126944684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_67
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 860
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35536f886d1b9045bf65107da0aec8d
+      internalID: 1188191510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_68
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 860
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bb5cd6d2c58c348aabf837370f108b
+      internalID: -1953824631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_69
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 860
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ca06c6497da4b4a83ec68c0ceb8061
+      internalID: 1961315792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_70
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 860
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82cf7ee07a38fb41ab8cda253411c1b
+      internalID: -1779631146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_71
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 860
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671c3cc0d352ba44fa81f645a517764f
+      internalID: 1084300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_72
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 860
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f7baaeb261db340bb6cdb4d36c0419
+      internalID: 47620813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_73
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 860
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab8ea07cb28cd94bbed11043f2d8c94
+      internalID: -2098666971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_74
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 860
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6847e3d2794656442bae4eac61576471
+      internalID: 604199901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_75
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 860
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234e2f7bf6fd3cc4b92687a1813b7977
+      internalID: 1545419882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_76
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 860
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa0d661f19276343b4fee0570f6df61
+      internalID: 1479746483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_77
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 860
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5c7a6d1636c8849a2828a9d8ee51b0
+      internalID: -839074565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_78
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 860
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40baa93473beaf04b85753b47c9a0622
+      internalID: 1949392635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_79
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 860
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da10c702dda27364986fd90055f5f719
+      internalID: 1287342460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 783
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa755a704a15a94d8eeeb8c1f83054c
+      internalID: 1495782160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_81
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 783
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3549d9cad0dafea49b0e5f8203db974a
+      internalID: -686016769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_82
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 783
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5e6573764f0ce4d90258d9d241d13d
+      internalID: 1190604515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_83
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 783
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bc91a481d47af48880f4a0553caa5c
+      internalID: 1841168082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_84
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 783
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8563bc87ae76c9541b039aa87464eaed
+      internalID: 1165443288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_85
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 783
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71f61ececab1d347a59502b7dc8b940
+      internalID: -1734127867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_86
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 783
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a9b6922613bff4e9c20af7bf635f83
+      internalID: 1655512707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_87
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 783
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3989fb7df043b448b36b8f2ac63630
+      internalID: 668374628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_88
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 783
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2a94fa777b46f43aba6461608d4665
+      internalID: 287613268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_89
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 783
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c72b800cae4e54293135648bb514cd
+      internalID: 298134585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_90
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 783
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31782274e9856e14787fbb9f6f383210
+      internalID: 1153804380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_91
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 783
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b67c79f3cbd2345b21751b2a79f3c6
+      internalID: -446123495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_92
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 783
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb713c8e65ced3246bc738c045afb129
+      internalID: -1775111021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_93
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 783
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b88ef9c0e445c24eb259f29fa3a7e8e
+      internalID: 2089318492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_94
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 783
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3051b3b3ea2ca408cdeedd6c014963
+      internalID: -2075150757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_95
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 783
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a5e69b3490e7d47aef3a63715017ba
+      internalID: -1366046244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 706
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e2c589668e1814e957e88f0bb99e5e
+      internalID: -1416217036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_97
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 706
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7962356f3235cc4f90a1db2036a6e01
+      internalID: 1604663310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_98
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 706
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce4e59bc3246174bb9297e7270a9905
+      internalID: -111117169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_99
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 706
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15aee89ef5eb4414a89a5eb66228cf10
+      internalID: 2116021814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_100
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 706
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fd6e77a7e99e14094f48a3f6c31b1e
+      internalID: -418903784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_101
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 706
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37417c861bb011745bc1f77547c3ba67
+      internalID: -250369365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_102
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 706
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10452e5ac07c8e542867edb4dbc3d961
+      internalID: 2087902590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_103
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 706
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e6301b200733643bb355e30397e975
+      internalID: 699135129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_104
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 706
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941a29d9f2e99c940851f6b1f1e4520e
+      internalID: 925044917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_105
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 706
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355beceac4812a54195138f84c65bcb2
+      internalID: -1253702126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_106
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 706
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a2af62a51bc914794aff460c843401
+      internalID: 918448618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_107
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 706
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3721c89c4a59d143ae6d874f64f33bf
+      internalID: -1557189557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_108
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 706
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74f8dfe8a9767c4eb9ae02051fec1ff
+      internalID: 917528708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_109
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 706
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966b75774cb865f4eb33fecf33c13cf0
+      internalID: 1051086388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_110
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 706
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a83d68eb49d2a4baaf11f428546d77
+      internalID: -2011204458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_111
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 706
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f186678bd0c08c64bbf637bab1d55c40
+      internalID: 494627458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 629
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1637589883e26749bb36ab5e2265da7
+      internalID: -4833894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_113
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 629
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4e6d7070a8bed42958ec5a77e1eea9
+      internalID: -1960981170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_114
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 629
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae4fcfda949cd44bbe2a9fb2bd9a8aa
+      internalID: -7878859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_115
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 629
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38359981f26f55e4cafba9bb27614df0
+      internalID: -1656773498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_116
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 629
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f3f38081548524dbba2b31ca2565fa
+      internalID: -83818801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_117
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 629
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34693a3a5728c046ae96d0ba82ab23f
+      internalID: 1196426077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_118
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 629
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c88f7b537512c94baa638ec9aa439e6
+      internalID: -494384316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_119
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 629
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5b3f42ed0174a459ecd80919da7b59
+      internalID: -1062924891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_120
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 629
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00324ae0c9507234f915d3cab80a6258
+      internalID: 1559536860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_121
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 629
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b9f73577500334e84ee7b142aa1578
+      internalID: 1703151435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_122
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 629
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eca85a36d8de24786502ab900373c7
+      internalID: 2402360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_123
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 629
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7787818cd0c1e4549aa42f9b25fe153b
+      internalID: 1044898793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_124
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 629
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e02ef0587f344c4bb99ad2dc357dadd
+      internalID: 798224532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_125
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 629
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920716012c5c176489164d319e299f3c
+      internalID: -516557378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_126
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 629
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daf5e11cf63ccc439b6f18fe9426552
+      internalID: -279144564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_127
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 629
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461b214ab4a147b43824a15b8db6cac9
+      internalID: -608072120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4659ba6a74fb2647b33b46c47fd8bcf
+      internalID: -1977419334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_129
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 552
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6a84ab4ca9c4d46a2424dc9a2eba25
+      internalID: 799391842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_130
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 552
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1989bbeb92a4c64ebdeeba432ebed55
+      internalID: 887440018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_131
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 552
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7481baeef7ab549a9fe397129f3220
+      internalID: -807843086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_132
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 552
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d740001c51b704da79522a45e036ae
+      internalID: -216146736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_133
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 552
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd741b85801a17428bab6a8438a0db7
+      internalID: 265866366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_134
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 552
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45ec78493cfa174981ab3d1e4fc4d6d
+      internalID: -1519265850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_135
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 552
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c36062b49ea0c4d8a2e0790f551cac
+      internalID: 1803421866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_136
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 552
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43c9e2ebb2bb7d4987b49411dc79347
+      internalID: -734823592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_137
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 552
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bf21adfe9d47946bc0a63f1a027257
+      internalID: -868135157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_138
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 552
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5c489aa2943704fbfb8e7ede4584c0
+      internalID: 648193166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_139
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 552
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cd7f8dca4915b4d8dd885245e02745
+      internalID: -727667535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_140
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 552
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f91eb8d4fdcacd43b1145b04542bb02
+      internalID: 490174878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_141
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 552
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3a482fcc1eba74ea5fc7b6a8441511
+      internalID: 1254529286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_142
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 552
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e615699577cd24aa8ee458ff0c8a93
+      internalID: -142374658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_143
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 552
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd216a15a9ce329469bcf3631b4c15fd
+      internalID: 1173581228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 475
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1698a03843fe6e40981bfda1fdb64fd
+      internalID: -1704787442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_145
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 475
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d997a21552b05354eb53379192e715ac
+      internalID: 1239446979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_146
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 475
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2751adf8a07a6f342afb02b928c23d69
+      internalID: -730008712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_147
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 475
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6bdbda8aaf2ee409fef3068657eb7b
+      internalID: 1428694411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_148
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 475
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece3b67af88bc1a4396ebbf332eac64a
+      internalID: -1065976547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_149
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 475
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539da10b034183f448250c70345e3bb0
+      internalID: 1420434102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_150
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 475
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21b4979ff2d47e408f0789827a5dac3
+      internalID: -874133932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_151
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 475
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fc76d89620bbb4482ff30c2aeef837
+      internalID: 1926885260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_152
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 475
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ef9d1c3efaa42489784c8c3ac98699
+      internalID: 913601905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_153
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 475
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21efa397121115429de538c433663a7
+      internalID: -1548750605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_154
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 475
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cce08a3d7592645924353378058a0d
+      internalID: -229038024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_155
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 475
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f552e4b337cd084cb94c868b10f86f7
+      internalID: -1878795446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_156
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 475
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3b1f41e0dc9be4795c8222dbce6611
+      internalID: 560563814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_157
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 475
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98d6548bf04d21459a11595aabbef53
+      internalID: 358523276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_158
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 475
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e460b2c7642a36047a28472d0eb37068
+      internalID: 897830667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_159
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 475
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdaae090a2bfcc64f81da79470201227
+      internalID: 1356840101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbdfe0fd38b5d6479a68b1e6de0b2a5
+      internalID: -181383118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_161
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 398
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6233becf34c5a744a2fda8b8e4d7a66
+      internalID: 662914496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_162
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 398
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a421dfae99b6430409aaad81567969ed
+      internalID: -891342682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_163
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 398
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c827232d787b240b1d948b8b5ebe09
+      internalID: -525697814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_164
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 398
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b22042f3970e7d43b3c9aeff80ad77d
+      internalID: 1544682196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_165
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 398
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8211b550a4abcb547b44bc35653118c4
+      internalID: 318818783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_166
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 398
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f3c9d148640cf408881b54264acc98
+      internalID: 1876757386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_167
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 398
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e79c958a3dfbd48a04644b2f9fb4f5
+      internalID: 2136816721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_168
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 398
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905ffeba79999ac4d9e63a278eabb4fe
+      internalID: -254930605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_169
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 398
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da758b67b32a96e4cb1e2789b98120eb
+      internalID: -695759259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_170
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 398
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a09f526d3d3dc4db99508bf1cdbcbc
+      internalID: -267690182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_171
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 398
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f347c35a3f903418672ce027e1c35e
+      internalID: 789424391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_172
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 398
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc60e3263300854fb3661e9285033b8
+      internalID: 1038846317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_173
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 398
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e50429957a3e34daeb998c5fed149f
+      internalID: 1493784473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_174
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 398
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8670b7954fb656448c684081b569655
+      internalID: 1959219315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_175
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 398
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71a7bca124a50142b6360799bc67486
+      internalID: 1935769144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da15b82f0c3e120489e1c1c501a2147a
+      internalID: -1221952103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_177
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 321
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5290562861f8d742a4f8970b2fd6a65
+      internalID: 389895870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_178
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 321
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a9cef373b6bc6419e9ee996f80a675
+      internalID: 1505652973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_179
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 321
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aacad0aca9af4e4bb5afbe8c92d9bc9
+      internalID: -2068700712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_180
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 321
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de959615ef0ec1040bc4d429b1612654
+      internalID: 969088356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_181
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 321
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15662e5f08fd3a45ab4792cadca446a
+      internalID: 1413677547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_182
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 321
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3370d3808acfb594bbf5e8960b849805
+      internalID: 923377496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_183
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 321
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15c3a4c3e110ee4c9a1d53702cad139
+      internalID: -1086277290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_184
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 321
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1829bd37b4322f24c93ffccbcff24c6c
+      internalID: 1759453718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_185
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 321
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6b2d5b1ebd45442bea9104be30803d
+      internalID: -1719507540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_186
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 321
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b78605053390ec48b95d8b6c0990657
+      internalID: -1214944253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_187
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 321
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e258d2a43a49e2046b0e3a119c377c61
+      internalID: -455984430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_188
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 321
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8c8113376cfb94195f48df945411ab
+      internalID: 847345339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_189
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 321
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3886abd93e8308448a13e42c7dd56a4a
+      internalID: -1907463045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_190
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 321
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee19e7f0079a8748b419f5ad31a70ce
+      internalID: 575928133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_191
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 321
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624758955f604e04bb8d2db37b09d360
+      internalID: -1726869341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0a829b8397b6048a1809d1ac2f44ed
+      internalID: -271223596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_193
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 244
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8ed38621c6b5b4a806e47ea02751f5
+      internalID: -293312798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_194
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 244
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cb83c61fe0e9345b1ba56957ad7f04
+      internalID: -969434515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_195
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 244
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38081ecd9be207b4a858df8b136e24f5
+      internalID: -287787475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_196
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 244
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a2a934089f7e44bb11240823f235fe
+      internalID: -364055820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_197
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 244
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914bebb7fed337d43b61f3d8c11c9caa
+      internalID: 1063662529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_198
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 244
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042d60112b04e9342a8c33c7d4a7de3d
+      internalID: 421074309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_199
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 244
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab360457131a74544920bf6fa39660b3
+      internalID: -1849224083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_200
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 244
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f082afdb06f41b74fa56b0c7c5b9b8c5
+      internalID: 572142996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_201
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 244
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b859214e69ba7546a8174dca21ba631
+      internalID: 1548386324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_202
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 244
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdd4553067f2d648b90219bc6656c60
+      internalID: 202064518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_203
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 244
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef4a274fcfd2fd4097d77342d786368
+      internalID: 1367337611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_204
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 244
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e6047dbcdb1a3409ab47af346b2ba1
+      internalID: 1465776743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_205
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 244
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0221ff886b5772446b4bdc9028cd65b2
+      internalID: -1143964662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_206
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 244
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b7adff1943d51468d49c2fe7741741
+      internalID: 1911752144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_207
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 244
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51250d4e9e3ef14bab9202c50306906
+      internalID: 457588587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581b394cdc1d404448db125346b21823
+      internalID: 206971612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_209
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 167
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a282ea3dab05a4888f57e344527846
+      internalID: 2040129943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_210
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 167
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0185fadd9a126484d91e9e082f511e20
+      internalID: 1105251882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_211
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 167
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab9dbcc690f5ba439df943da2757076
+      internalID: 742437577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_212
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 167
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95895a0a1b2723044b40b760045a8a04
+      internalID: 2078647056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_213
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 167
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9214cb230db36c4bb64c2730b8f4344
+      internalID: 495099419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_214
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 167
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3441d53204f7de42aad71743fe536b4
+      internalID: 1614054903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_215
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 167
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d255db94541e74689b3ddf706590ef
+      internalID: -1631779004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_216
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 167
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69040a984cc267e42bf11a12c656c8f1
+      internalID: 372847820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_217
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 167
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d492e7594657f4aa89cb8b82be26c5
+      internalID: 596532436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_218
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 167
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d43421df6912a408e19c01269fc991
+      internalID: 1183440219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_219
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 167
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74ded0bc02383d469e27f53e48e4bac
+      internalID: 110326383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_220
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 167
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e749d20a185b7354a9045d50698791d0
+      internalID: 1821331771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_221
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 167
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8389b89c3dedb741b6bed15d7428f94
+      internalID: 849056288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_222
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 167
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a10c889cb50084f82de06f8f388d0d
+      internalID: 1477487674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_223
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 167
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8185eaf40974db342be6cc3a16ded87f
+      internalID: -2032821101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7046fac3e3f80284cb176e4aa5b01c8d
+      internalID: -1157367005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_225
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 90
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d83219e3bc8a14c9afaa27561178fc
+      internalID: 375256939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_226
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 90
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24abd9a47865dd94791e4681c64dd394
+      internalID: -1696103366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_227
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 90
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb82bca6017e30418f28327be3a6ec3
+      internalID: 1067801887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_228
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 90
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e1484ca0d2f3449b63971deaf31663
+      internalID: 127756178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_229
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 90
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bb9a9afa9ca7b488c0f975d4f6ae22
+      internalID: -490239786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_230
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 90
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34666fee56559b408fa85baea5f71d8
+      internalID: -1654444788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_231
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 90
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c0823d422f6184782fa1c76bd85049
+      internalID: 864202899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_232
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 90
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ce4d16619bc754695de05cb5004775
+      internalID: -631674159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_233
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 90
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d2edb0ea9f33946ba4afc75030f28a
+      internalID: 1194245427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_234
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 90
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269e6eb27336fe6468a809e62daae019
+      internalID: 1411319025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_235
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 90
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777b995673f62ff448a5e51fb1d1c06b
+      internalID: 760156275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_236
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 90
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029ef68240da01c4b9ad95d912d1c2e2
+      internalID: -1751396062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_237
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 90
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315331bc3a9b3674fa66798fb0219f26
+      internalID: -1141193500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_238
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 90
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2069a9750b2ec2f409f70afc8f3eedfc
+      internalID: -57554574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_239
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 90
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69c75ce119cffb41b73061ca3bee1da
+      internalID: -1058797096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53507075461421343ab0aaf4db5e8ee8
+      internalID: -1505166473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_241
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 13
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c60d19a33eb0ed4990b1e23373b89c9
+      internalID: 1936553519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_242
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 13
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b8b099bdffe1748a86d230973309c3
+      internalID: -1213501465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_243
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 13
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c2b65ccacceb1418c400624e7a20cc
+      internalID: -758000221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_244
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 13
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dea596678e92134fb92f6a4056ca787
+      internalID: 1584910676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_245
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 13
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6737f75a8119fe0439006256a1639a35
+      internalID: 1151031427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_246
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 13
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c53c905fb0a9b4b9856bd859f95a31
+      internalID: -2137955220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_247
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 13
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959da6edf96904344bb4c3ea7f4b4acc
+      internalID: 695927513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_248
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 13
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fc7a2a66c86f343b0ec3684cf26cef
+      internalID: -1661941701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_249
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 13
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413aa3eaf83912441a7d7b58d8e569d7
+      internalID: 1262126299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_250
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 13
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7c9eec42bfaac4695e10443bbd377f
+      internalID: 1464694356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_251
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 13
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669830f9864e93248b331ca077e8b817
+      internalID: 951929289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_252
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 13
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a84cc24fcfbebb4f963da3a9cc0e479
+      internalID: 1597896901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_253
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 13
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfca4d59f971b3842889814f33539167
+      internalID: -731867601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_254
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 13
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af414af12ea75dd49ac8831164e6078e
+      internalID: -1161540189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slot machine_255
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 13
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac3b15c524d4534992a32fb139c72e9
+      internalID: -884473800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 592.5, y: 622.5}
+      - {x: -592.5, y: 622.5}
+      - {x: -592.5, y: -622.5}
+      - {x: 592.5, y: -622.5}
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":16.0,"y":16.0},"gridSpriteSize":{"x":74.0,"y":77.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Slot machine_0: 9123127301424358690
+      Slot machine_1: 1473838342
+      Slot machine_10: 1880701349
+      Slot machine_100: -418903784
+      Slot machine_101: -250369365
+      Slot machine_102: 2087902590
+      Slot machine_103: 699135129
+      Slot machine_104: 925044917
+      Slot machine_105: -1253702126
+      Slot machine_106: 918448618
+      Slot machine_107: -1557189557
+      Slot machine_108: 917528708
+      Slot machine_109: 1051086388
+      Slot machine_11: -368573786
+      Slot machine_110: -2011204458
+      Slot machine_111: 494627458
+      Slot machine_112: -4833894
+      Slot machine_113: -1960981170
+      Slot machine_114: -7878859
+      Slot machine_115: -1656773498
+      Slot machine_116: -83818801
+      Slot machine_117: 1196426077
+      Slot machine_118: -494384316
+      Slot machine_119: -1062924891
+      Slot machine_12: -601516173
+      Slot machine_120: 1559536860
+      Slot machine_121: 1703151435
+      Slot machine_122: 2402360
+      Slot machine_123: 1044898793
+      Slot machine_124: 798224532
+      Slot machine_125: -516557378
+      Slot machine_126: -279144564
+      Slot machine_127: -608072120
+      Slot machine_128: -1977419334
+      Slot machine_129: 799391842
+      Slot machine_13: 99269499
+      Slot machine_130: 887440018
+      Slot machine_131: -807843086
+      Slot machine_132: -216146736
+      Slot machine_133: 265866366
+      Slot machine_134: -1519265850
+      Slot machine_135: 1803421866
+      Slot machine_136: -734823592
+      Slot machine_137: -868135157
+      Slot machine_138: 648193166
+      Slot machine_139: -727667535
+      Slot machine_14: 480196440
+      Slot machine_140: 490174878
+      Slot machine_141: 1254529286
+      Slot machine_142: -142374658
+      Slot machine_143: 1173581228
+      Slot machine_144: -1704787442
+      Slot machine_145: 1239446979
+      Slot machine_146: -730008712
+      Slot machine_147: 1428694411
+      Slot machine_148: -1065976547
+      Slot machine_149: 1420434102
+      Slot machine_15: 3872220
+      Slot machine_150: -874133932
+      Slot machine_151: 1926885260
+      Slot machine_152: 913601905
+      Slot machine_153: -1548750605
+      Slot machine_154: -229038024
+      Slot machine_155: -1878795446
+      Slot machine_156: 560563814
+      Slot machine_157: 358523276
+      Slot machine_158: 897830667
+      Slot machine_159: 1356840101
+      Slot machine_16: 492511428
+      Slot machine_160: -181383118
+      Slot machine_161: 662914496
+      Slot machine_162: -891342682
+      Slot machine_163: -525697814
+      Slot machine_164: 1544682196
+      Slot machine_165: 318818783
+      Slot machine_166: 1876757386
+      Slot machine_167: 2136816721
+      Slot machine_168: -254930605
+      Slot machine_169: -695759259
+      Slot machine_17: -1978027623
+      Slot machine_170: -267690182
+      Slot machine_171: 789424391
+      Slot machine_172: 1038846317
+      Slot machine_173: 1493784473
+      Slot machine_174: 1959219315
+      Slot machine_175: 1935769144
+      Slot machine_176: -1221952103
+      Slot machine_177: 389895870
+      Slot machine_178: 1505652973
+      Slot machine_179: -2068700712
+      Slot machine_18: -766230124
+      Slot machine_180: 969088356
+      Slot machine_181: 1413677547
+      Slot machine_182: 923377496
+      Slot machine_183: -1086277290
+      Slot machine_184: 1759453718
+      Slot machine_185: -1719507540
+      Slot machine_186: -1214944253
+      Slot machine_187: -455984430
+      Slot machine_188: 847345339
+      Slot machine_189: -1907463045
+      Slot machine_19: -360218520
+      Slot machine_190: 575928133
+      Slot machine_191: -1726869341
+      Slot machine_192: -271223596
+      Slot machine_193: -293312798
+      Slot machine_194: -969434515
+      Slot machine_195: -287787475
+      Slot machine_196: -364055820
+      Slot machine_197: 1063662529
+      Slot machine_198: 421074309
+      Slot machine_199: -1849224083
+      Slot machine_2: 1730367712
+      Slot machine_20: -2049843992
+      Slot machine_200: 572142996
+      Slot machine_201: 1548386324
+      Slot machine_202: 202064518
+      Slot machine_203: 1367337611
+      Slot machine_204: 1465776743
+      Slot machine_205: -1143964662
+      Slot machine_206: 1911752144
+      Slot machine_207: 457588587
+      Slot machine_208: 206971612
+      Slot machine_209: 2040129943
+      Slot machine_21: 494822525
+      Slot machine_210: 1105251882
+      Slot machine_211: 742437577
+      Slot machine_212: 2078647056
+      Slot machine_213: 495099419
+      Slot machine_214: 1614054903
+      Slot machine_215: -1631779004
+      Slot machine_216: 372847820
+      Slot machine_217: 596532436
+      Slot machine_218: 1183440219
+      Slot machine_219: 110326383
+      Slot machine_22: -492753885
+      Slot machine_220: 1821331771
+      Slot machine_221: 849056288
+      Slot machine_222: 1477487674
+      Slot machine_223: -2032821101
+      Slot machine_224: -1157367005
+      Slot machine_225: 375256939
+      Slot machine_226: -1696103366
+      Slot machine_227: 1067801887
+      Slot machine_228: 127756178
+      Slot machine_229: -490239786
+      Slot machine_23: 1894482611
+      Slot machine_230: -1654444788
+      Slot machine_231: 864202899
+      Slot machine_232: -631674159
+      Slot machine_233: 1194245427
+      Slot machine_234: 1411319025
+      Slot machine_235: 760156275
+      Slot machine_236: -1751396062
+      Slot machine_237: -1141193500
+      Slot machine_238: -57554574
+      Slot machine_239: -1058797096
+      Slot machine_24: 2134363103
+      Slot machine_240: -1505166473
+      Slot machine_241: 1936553519
+      Slot machine_242: -1213501465
+      Slot machine_243: -758000221
+      Slot machine_244: 1584910676
+      Slot machine_245: 1151031427
+      Slot machine_246: -2137955220
+      Slot machine_247: 695927513
+      Slot machine_248: -1661941701
+      Slot machine_249: 1262126299
+      Slot machine_25: 312511292
+      Slot machine_250: 1464694356
+      Slot machine_251: 951929289
+      Slot machine_252: 1597896901
+      Slot machine_253: -731867601
+      Slot machine_254: -1161540189
+      Slot machine_255: -884473800
+      Slot machine_26: -1962684611
+      Slot machine_27: -1084251509
+      Slot machine_28: -900862155
+      Slot machine_29: 678002154
+      Slot machine_3: -467501115
+      Slot machine_30: -1491134761
+      Slot machine_31: 716711356
+      Slot machine_32: -1366371811
+      Slot machine_33: 1268915580
+      Slot machine_34: -1600760806
+      Slot machine_35: -72480098
+      Slot machine_36: 381317365
+      Slot machine_37: -420947094
+      Slot machine_38: 1424914951
+      Slot machine_39: -1073111224
+      Slot machine_4: 915863608
+      Slot machine_40: -1246344571
+      Slot machine_41: -1126829629
+      Slot machine_42: -980985011
+      Slot machine_43: -654753879
+      Slot machine_44: -625234698
+      Slot machine_45: 344228708
+      Slot machine_46: 2081794070
+      Slot machine_47: -1271587337
+      Slot machine_48: 1309025950
+      Slot machine_49: 1447603534
+      Slot machine_5: -522728624
+      Slot machine_50: 1463184101
+      Slot machine_51: 540308007
+      Slot machine_52: 1799535352
+      Slot machine_53: 379181462
+      Slot machine_54: -247319489
+      Slot machine_55: 2108470864
+      Slot machine_56: 2054963366
+      Slot machine_57: 105456584
+      Slot machine_58: 77349104
+      Slot machine_59: -1512769674
+      Slot machine_6: 792429775
+      Slot machine_60: -1496359257
+      Slot machine_61: 19174903
+      Slot machine_62: 1743973416
+      Slot machine_63: -502868262
+      Slot machine_64: 1500719647
+      Slot machine_65: 1416530454
+      Slot machine_66: 1126944684
+      Slot machine_67: 1188191510
+      Slot machine_68: -1953824631
+      Slot machine_69: 1961315792
+      Slot machine_7: 67431379
+      Slot machine_70: -1779631146
+      Slot machine_71: 1084300146
+      Slot machine_72: 47620813
+      Slot machine_73: -2098666971
+      Slot machine_74: 604199901
+      Slot machine_75: 1545419882
+      Slot machine_76: 1479746483
+      Slot machine_77: -839074565
+      Slot machine_78: 1949392635
+      Slot machine_79: 1287342460
+      Slot machine_8: 1335870686
+      Slot machine_80: 1495782160
+      Slot machine_81: -686016769
+      Slot machine_82: 1190604515
+      Slot machine_83: 1841168082
+      Slot machine_84: 1165443288
+      Slot machine_85: -1734127867
+      Slot machine_86: 1655512707
+      Slot machine_87: 668374628
+      Slot machine_88: 287613268
+      Slot machine_89: 298134585
+      Slot machine_9: 1350303681
+      Slot machine_90: 1153804380
+      Slot machine_91: -446123495
+      Slot machine_92: -1775111021
+      Slot machine_93: 2089318492
+      Slot machine_94: -2075150757
+      Slot machine_95: -1366046244
+      Slot machine_96: -1416217036
+      Slot machine_97: 1604663310
+      Slot machine_98: -111117169
+      Slot machine_99: 2116021814
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
