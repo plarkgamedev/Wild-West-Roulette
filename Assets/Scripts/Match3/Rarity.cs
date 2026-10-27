@@ -1,0 +1,1 @@
+public enum Rarity { White, Blue, Purple, Legendary }

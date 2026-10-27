@@ -58,14 +58,22 @@
     <Compile Include="Assets\Scripts\Hub\HubSpawner.cs" />
     <Compile Include="Assets\Scripts\Common\SceneLoader.cs" />
     <Compile Include="Assets\Scripts\Common\Bootstrap.cs" />
+    <Compile Include="Assets\Scripts\Match3\Rarity.cs" />
     <Compile Include="Assets\Scripts\Hub\StationHighlight.cs" />
+    <Compile Include="Assets\Scripts\Match3\SlotMinigameController.cs" />
     <Compile Include="Assets\Scripts\Hub\PlayerMover.cs" />
     <Compile Include="Assets\Scripts\Hub\PlayerInteractor.cs" />
     <Compile Include="Assets\Scripts\Hub\SceneStation.cs" />
+    <Compile Include="Assets\Scripts\Match3\Match3Board.cs" />
     <Compile Include="Assets\Scripts\Hub\IInteractable.cs" />
+    <Compile Include="Assets\Scripts\Common\PitOdds.cs" />
+    <Compile Include="Assets\Scripts\Match3\ResultSlotView.cs" />
     <Compile Include="Assets\Scripts\Hub\GlowPulse.cs" />
     <Compile Include="Assets\Scripts\Common\SceneButton.cs" />
+    <Compile Include="Assets\Scripts\Match3\TileView.cs" />
     <Compile Include="Assets\Scripts\Common\RunState.cs" />
+    <Compile Include="Assets\Scripts\Match3\Match3Config.cs" />
+    <Compile Include="Assets\Scripts\Match3\ResultsPanel.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
