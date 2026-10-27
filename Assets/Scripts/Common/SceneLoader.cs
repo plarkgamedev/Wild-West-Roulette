@@ -16,10 +16,12 @@ public class SceneLoader : MonoBehaviour
     IEnumerator Routine(string scene)
     {
         busy = true;
+        fade.blocksRaycasts = true;
         yield return Fade(1f);
         var op = SceneManager.LoadSceneAsync(scene);
         while (!op.isDone) yield return null;
         yield return Fade(0f);
+        fade.blocksRaycasts = false;
         busy = false;
     }
 

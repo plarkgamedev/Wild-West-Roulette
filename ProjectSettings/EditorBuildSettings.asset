@@ -5,9 +5,24 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Hub.unity
+    guid: 38ee3ea04f6cf1d43ba929dd19596674
+  - enabled: 1
+    path: Assets/Scenes/BulletPit.unity
+    guid: cac04ecc9b90cda468be8a1f6d98d931
+  - enabled: 1
+    path: Assets/Scenes/Duel.unity
+    guid: cbc8e730df7ffcb4593c6357fe0f386b
+  - enabled: 1
+    path: Assets/Scenes/Match3Slot.unity
+    guid: 5f26f56fa8dcf7e4c8c87cb8482848b5
+  - enabled: 1
+    path: Assets/Scenes/Upgrade.unity
+    guid: f438f3d92595f464683282cd12bea0af
   m_configObjects:
     com.unity.adaptivePerformance.basic.provider_settings: {fileID: 11400000, guid: 06645c22615eb79459e097e292f0d275, type: 2}
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: ad051b7b1213bd343b77bb6bcfb07636, type: 2}
