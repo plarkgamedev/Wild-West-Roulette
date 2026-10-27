@@ -7,9 +7,18 @@ public class RunState
     public int Town = 1;
     public int DuelIndex = 0;   // 0..2 inside a town
     public int PlayerLevel = 1;
+    public int LoopsCompleted;
 
     public void Advance()
     {
-        Next = Next == HubStep.Duel ? HubStep.Match3Slot : Next + 1;
+        if (Next == HubStep.Duel)
+        {
+            Next = HubStep.Match3Slot;
+            LoopsCompleted++;   // a full loop = slot, pit, duel
+        }
+        else
+        {
+            Next = Next + 1;
+        }
     }
 }
