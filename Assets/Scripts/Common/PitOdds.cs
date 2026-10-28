@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.Linq;
 
 public static class PitOdds
 {
@@ -13,15 +12,33 @@ public static class PitOdds
         return counts;
     }
 
-    // Chance per pit bullet for each rarity, 0 to 100.
-    // Example: 3 of 6 reels on White = 50.
-    public static float[] Percentages(int[] counts)
+    // Chance per pit bullet for each rarity, in percent, adding up to exactly 100.
+    //   baseChance[1..3] = starting chance of Blue, Purple, Legendary (index 0 is ignored)
+    //   perReel[1..3]    = chance added per reel on that rarity
+    //   perReel[0]       = points moved from the rarer tiers to White per White reel
+    // White always gets whatever is left.
+    public static float[] Chances(int[] counts, float[] baseChance, float[] perReel)
     {
-        int sum = counts.Sum();
-        var p = new float[counts.Length];
-        if (sum == 0) return p;
-        for (int i = 0; i < counts.Length; i++)
-            p[i] = 100f * counts[i] / sum;
+        var p = new float[4];
+        float rarer = 0f;
+        for (int i = 1; i <= 3; i++)
+        {
+            p[i] = Math.Max(0f, baseChance[i] + counts[i] * perReel[i]);
+            rarer += p[i];
+        }
+
+        // White reels shave the rarer tiers proportionally.
+        float target = Math.Max(0f, rarer - counts[0] * perReel[0]);
+        // The rarer tiers can never take more than the whole pit.
+        target = Math.Min(target, 100f);
+
+        if (rarer > 0f)
+        {
+            float scale = target / rarer;
+            for (int i = 1; i <= 3; i++) p[i] *= scale;
+        }
+
+        p[0] = 100f - (p[1] + p[2] + p[3]);
         return p;
     }
 

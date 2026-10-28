@@ -14,11 +14,13 @@ public class RunState
     // Slot output
     public Rarity[] LastSlotResult;
     public int PitSize = 100;
-    public int[] PitReelCounts;        // reels per rarity: [White, Blue, Purple, Legendary]
-    public float[] PitPercentages;     // chance per bullet, 0 to 100
+    public int[] PitReelCounts;          // [White, Blue, Purple, Legendary]
+    public float[] PitPercentages;       // chance per bullet, 0 to 100
 
-    // Rolled once when the pit is first entered, then kept for this loop
+    // Bullet pit (rolled once per loop; ResultsPanel clears PitPool to force a reroll)
     public List<Rarity> PitPool;
+    public List<BulletInstance> PitBullets;
+    public List<BulletInstance> Loadout; // what the player took, in cylinder order, read by the duel
 
     public void Advance()
     {

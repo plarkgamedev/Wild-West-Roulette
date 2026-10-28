@@ -8,11 +8,23 @@ public class Match3Config : ScriptableObject
     public int rows = 4;
     public int moves = 10;
 
-    [Header("Rarity weights (any positive numbers)")]
+    [Header("Match-3 board: which bullets appear as tiles (any positive numbers)")]
     public float whiteWeight = 50f;
     public float blueWeight = 25f;
     public float purpleWeight = 15f;
     public float legendaryWeight = 10f;
+
+    [Header("Bullet pit: base chance per bullet, in percent (white is the remainder)")]
+    public float blueBase = 20f;
+    public float purpleBase = 10f;
+    public float legendaryBase = 5f;
+
+    [Header("Bullet pit: added for EACH slot reel that lands on that rarity")]
+    public float bluePerReel = 5f;
+    public float purplePerReel = 5f;
+    public float legendaryPerReel = 5f;
+    [Tooltip("Percentage points moved from the rarer tiers back to White for each White reel. 0 = white reels do nothing.")]
+    public float whiteReelShift = 0f;
 
     [Header("Rarity tints")]
     public Color whiteTint = Color.white;
@@ -27,6 +39,13 @@ public class Match3Config : ScriptableObject
     public float spinStartDelay = 0.6f;
     public float spinStepFast = 0.04f;
     public float spinStepSlow = 0.22f;
+
+    // Order everywhere: [White, Blue, Purple, Legendary]
+    public float[] PitBase => new[] { WhiteBase, blueBase, purpleBase, legendaryBase };
+    public float[] PitStep => new[] { whiteReelShift, bluePerReel, purplePerReel, legendaryPerReel };
+    public float WhiteBase => Mathf.Max(0f, 100f - blueBase - purpleBase - legendaryBase);
+
+    public float[] PitChances(int[] reelCounts) => PitOdds.Chances(reelCounts, PitBase, PitStep);
 
     public Rarity Roll(System.Random rng)
     {

@@ -11,8 +11,8 @@ TagManager:
   - Characters
   - Water
   - UI
-  - 
-  - 
+  - Bullet
+  - Player
   - 
   - 
   - 
@@ -43,6 +43,12 @@ TagManager:
     locked: 0
   - name: Character
     uniqueID: 4205575209
+    locked: 0
+  - name: Bullet
+    uniqueID: 1537061491
+    locked: 0
+  - name: Player
+    uniqueID: 2271866863
     locked: 0
   m_RenderingLayers:
   - Default

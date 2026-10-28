@@ -14,18 +14,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Match3Config
   columns: 5
   rows: 4
-  moves: 1
-  whiteWeight: 90
-  blueWeight: 1
-  purpleWeight: 1
-  legendaryWeight: 1
+  moves: 5
+  whiteWeight: 50
+  blueWeight: 30
+  purpleWeight: 15
+  legendaryWeight: 5
+  blueBase: 20
+  purpleBase: 10
+  legendaryBase: 5
+  bluePerReel: 5
+  purplePerReel: 5
+  legendaryPerReel: 5
+  whiteReelShift: 0
   whiteTint: {r: 1, g: 1, b: 1, a: 1}
   blueTint: {r: 0.35, g: 0.6, b: 1, a: 1}
   purpleTint: {r: 0.7, g: 0.4, b: 1, a: 1}
   legendaryTint: {r: 1, g: 0.65, b: 0.1, a: 1}
   swapTime: 0.1
-  clearTime: 0.1
-  fallTime: 0.1
+  clearTime: 0.2
+  fallTime: 0.2
   spinStartDelay: 0.6
   spinStepFast: 0.04
   spinStepSlow: 0.22

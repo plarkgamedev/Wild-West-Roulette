@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1d578355bd2ff4419880e7e6de7a0ab, type: 3}
+  m_Name: New Pit Config
+  m_EditorClassIdentifier: Assembly-CSharp::PitConfig
+  timeLimit: 30
+  fallbackPitSize: 100
+  chambers: 6
+  cylinderWeightLimit: 10
+  rarityWeight: 01000000020000000300000005000000i
+  defaultDamageMultiplier:
+  - 1.1
+  - 1.3
+  - 1.5
+  - 2
+  pickupRange: 4
+  bulletsPerBatch: 6
+  batchInterval: 0.03
+  settleTime: 1
+  bullets: []
+  genericIcon: {fileID: 0}
