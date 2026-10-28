@@ -19,6 +19,6 @@ MonoBehaviour:
   extraWeight: 0
   effectName: 
   effectDescription: 
-  icon: {fileID: 21300000, guid: 3076d3c3f9cf6b54e8e6809c3cd15546, type: 3}
+  icon: {fileID: -2482197127512001884, guid: d93214ae1cbd52f43ad35c2673207a51, type: 3}
   modelOverride: {fileID: 0}
   modelScale: 1

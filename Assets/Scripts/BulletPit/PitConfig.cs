@@ -15,25 +15,27 @@ public class PitConfig : ScriptableObject
     [Header("Weight per rarity: [White, Blue, Purple, Legendary]")]
     public int[] rarityWeight = { 1, 2, 3, 5 };
 
-    [Header("Damage multiplier used when no bullet definition exists for a rarity")]
-    public float[] defaultDamageMultiplier = { 1.1f, 1.3f, 1.5f, 2f };
-
     [Header("Interaction")]
     public float pickupRange = 4f;
 
     [Header("Spawning")]
     public int bulletsPerBatch = 6;
     public float batchInterval = 0.03f;
-    public float settleTime = 1f;          // pause before the timer starts so the pile can land
+    public float settleTime = 1f;
 
-    [Header("Bullet types")]
+    [Header("Bullet types: ONLY these can ever spawn")]
     public List<BulletDefinition> bullets = new List<BulletDefinition>();
-    public Sprite genericIcon;             // your bullet PNG, tinted by rarity
+    [Tooltip("Shown in the cylinder UI for definitions that have no icon of their own.")]
+    public Sprite genericIcon;
 
     public int WeightOf(Rarity r) => rarityWeight[(int)r];
-    public float DefaultMultiplier(Rarity r) => defaultDamageMultiplier[(int)r];
 
-    // Picks a bullet type of this rarity, favoring higher spawnWeight. Null if none exist.
+    public bool HasAny
+    {
+        get { foreach (var b in bullets) if (b != null) return true; return false; }
+    }
+
+    // A definition of exactly this rarity, favoring higher spawnWeight. Null if none.
     public BulletDefinition Pick(Rarity r, System.Random rng)
     {
         float total = 0f;
@@ -53,9 +55,40 @@ public class PitConfig : ScriptableObject
         return last;
     }
 
+    // Same, but if that rarity has no definitions it uses the nearest lower rarity, then the nearest higher.
+    // Returns null only when the list holds no usable definition at all.
+    public BulletDefinition PickWithFallback(Rarity wanted, System.Random rng, out Rarity used)
+    {
+        used = wanted;
+        var def = Pick(wanted, rng);
+        if (def != null) return def;
+
+        for (int i = (int)wanted - 1; i >= 0; i--)
+        {
+            def = Pick((Rarity)i, rng);
+            if (def != null) { used = (Rarity)i; return def; }
+        }
+        for (int i = (int)wanted + 1; i <= 3; i++)
+        {
+            def = Pick((Rarity)i, rng);
+            if (def != null) { used = (Rarity)i; return def; }
+        }
+        return null;
+    }
+
+    // The lightest bullet you have defined (used if the player picks nothing).
+    public BulletDefinition PickLightest(System.Random rng)
+    {
+        for (int i = 0; i <= 3; i++)
+        {
+            var def = Pick((Rarity)i, rng);
+            if (def != null) return def;
+        }
+        return null;
+    }
+
     void OnValidate()
     {
         if (rarityWeight == null || rarityWeight.Length != 4) System.Array.Resize(ref rarityWeight, 4);
-        if (defaultDamageMultiplier == null || defaultDamageMultiplier.Length != 4) System.Array.Resize(ref defaultDamageMultiplier, 4);
     }
 }

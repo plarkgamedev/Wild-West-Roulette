@@ -29,9 +29,16 @@ public class PitPlayer : MonoBehaviour
 
     void OnDisable()
     {
-        // The hub and other scenes need a normal cursor for buttons.
         Cursor.lockState = CursorLockMode.None;
         Cursor.visible = true;
+    }
+
+    // true = menu mode (free cursor, no walking or looking). false = back to first person.
+    public void SetUiMode(bool ui)
+    {
+        Locked = ui;
+        Cursor.lockState = ui ? CursorLockMode.None : CursorLockMode.Locked;
+        Cursor.visible = ui;
     }
 
     void Update()

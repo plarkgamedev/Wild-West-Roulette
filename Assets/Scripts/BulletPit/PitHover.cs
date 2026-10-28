@@ -9,28 +9,24 @@ public class PitHover : MonoBehaviour
     [SerializeField] BulletCardUI card;
     [SerializeField] PitLoadout loadout;
     [SerializeField] PitManager manager;
+    [SerializeField] CylinderView cylinder;
     [SerializeField] InputActionReference interact;
-    [SerializeField] InputActionReference drop;
 
     PitBullet hovered;
 
     void OnEnable()
     {
         interact.action.Enable();
-        drop.action.Enable();
         interact.action.performed += OnInteract;
-        drop.action.performed += OnDrop;
     }
 
-    void OnDisable()
-    {
-        interact.action.performed -= OnInteract;
-        drop.action.performed -= OnDrop;
-    }
+    void OnDisable() => interact.action.performed -= OnInteract;
 
     void Update()
     {
         hovered = null;
+        if (cylinder.IsOpen) return;   // the cylinder screen owns the card while it is open
+
         if (manager.Active)
         {
             var ray = new Ray(cam.transform.position, cam.transform.forward);
@@ -50,14 +46,9 @@ public class PitHover : MonoBehaviour
 
     void OnInteract(InputAction.CallbackContext _)
     {
-        if (!manager.Active || hovered == null) return;
+        if (!manager.Active || cylinder.IsOpen || hovered == null) return;
         loadout.TryAdd(hovered);
         hovered = null;
         card.Hide();
-    }
-
-    void OnDrop(InputAction.CallbackContext _)
-    {
-        if (manager.Active) loadout.RemoveLast();
     }
 }

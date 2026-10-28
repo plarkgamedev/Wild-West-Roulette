@@ -18,6 +18,14 @@ public class BulletDefinition : ScriptableObject
     public string effectName;
     [TextArea(2, 4)] public string effectDescription;
 
+    [Header("Timing effects (shown on the detail page; leave empty if none)")]
+    [TextArea(1, 3)] public string beforeEffect;   // you shoot before the enemy
+    [TextArea(1, 3)] public string duringEffect;   // the bullets collide
+    [TextArea(1, 3)] public string afterEffect;    // the enemy shoots first, then you
+
+    [Header("Flavor")]
+    [TextArea(2, 4)] public string flavorText;
+
     [Header("Visuals")]
     [Tooltip("Icon shown in the cylinder UI. Falls back to the Generic Icon in the Pit Config.")]
     public Sprite icon;

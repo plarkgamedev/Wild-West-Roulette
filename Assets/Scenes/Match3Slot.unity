@@ -1608,7 +1608,7 @@ MonoBehaviour:
   slotPrefab: {fileID: 2421753561167338377, guid: b2b0017a0fd2b5b41827bc89ecab305b, type: 3}
   summaryText: {fileID: 685711320}
   continueButton: {fileID: 1985518972}
-  pitSize: 100
+  pitSize: 1000
   revealDelay: 0.1
   popTime: 0.1
 --- !u!1 &1979598588

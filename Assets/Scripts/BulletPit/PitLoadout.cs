@@ -1,13 +1,16 @@
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class PitLoadout : MonoBehaviour
 {
     [SerializeField] PitConfig config;
-    [SerializeField] CylinderUI ui;
 
     readonly List<BulletInstance> loaded = new List<BulletInstance>();
     readonly List<PitBullet> views = new List<PitBullet>();
+
+    // Every UI that shows the cylinder listens to this.
+    public event Action Changed;
 
     public IReadOnlyList<BulletInstance> Loaded => loaded;
     public int Limit => config.cylinderWeightLimit;
@@ -35,16 +38,15 @@ public class PitLoadout : MonoBehaviour
         return true;
     }
 
-    // Puts the most recently picked bullet back where it was.
-    public void RemoveLast()
+    // Cylinder screen only: drops the chosen bullet at `position`. Later bullets shift down one chamber.
+    public void DropAt(int index, Vector3 position)
     {
-        if (loaded.Count == 0) return;
-        int i = loaded.Count - 1;
-        views[i].PutBack();
-        loaded.RemoveAt(i);
-        views.RemoveAt(i);
+        if (index < 0 || index >= loaded.Count) return;
+        views[index].DropAt(position);
+        loaded.RemoveAt(index);
+        views.RemoveAt(index);
         Refresh();
     }
 
-    public void Refresh() => ui.Refresh(loaded, Weight, Limit);
+    public void Refresh() => Changed?.Invoke();
 }

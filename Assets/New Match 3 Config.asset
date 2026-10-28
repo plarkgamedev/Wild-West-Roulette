@@ -12,19 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a476f31eb04b21a4db8bc0b25ff94ccc, type: 3}
   m_Name: New Match 3 Config
   m_EditorClassIdentifier: Assembly-CSharp::Match3Config
-  columns: 5
-  rows: 4
-  moves: 5
+  columns: 6
+  rows: 6
+  moves: 1
   whiteWeight: 50
   blueWeight: 30
   purpleWeight: 15
   legendaryWeight: 5
-  blueBase: 20
-  purpleBase: 10
-  legendaryBase: 5
-  bluePerReel: 5
-  purplePerReel: 5
-  legendaryPerReel: 5
+  blueBase: 2
+  purpleBase: 1
+  legendaryBase: 0.5
+  bluePerReel: 3
+  purplePerReel: 2
+  legendaryPerReel: 1
   whiteReelShift: 0
   whiteTint: {r: 1, g: 1, b: 1, a: 1}
   blueTint: {r: 0.35, g: 0.6, b: 1, a: 1}

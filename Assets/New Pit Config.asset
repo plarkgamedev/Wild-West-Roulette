@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b1d578355bd2ff4419880e7e6de7a0ab, type: 3}
   m_Name: New Pit Config
   m_EditorClassIdentifier: Assembly-CSharp::PitConfig
-  timeLimit: 30
-  fallbackPitSize: 100
+  timeLimit: 600
+  fallbackPitSize: 2000
   chambers: 6
   cylinderWeightLimit: 10
   rarityWeight: 01000000020000000300000005000000i
@@ -23,8 +23,12 @@ MonoBehaviour:
   - 1.5
   - 2
   pickupRange: 4
-  bulletsPerBatch: 6
+  bulletsPerBatch: 100
   batchInterval: 0.03
   settleTime: 1
-  bullets: []
-  genericIcon: {fileID: 0}
+  bullets:
+  - {fileID: 11400000, guid: 5e3e9af989033764da8430ec7c1c5d8a, type: 2}
+  - {fileID: 11400000, guid: 93f17164431f93a4cbaca89f9b422ba2, type: 2}
+  - {fileID: 11400000, guid: 5620ba456d684384c8fa73e5e9947df3, type: 2}
+  - {fileID: 11400000, guid: 8ecd11c4c936140489d3dcf57fbbae02, type: 2}
+  genericIcon: {fileID: 21300000, guid: 38da99c0ecbb6174bb7d7b1b9d803329, type: 3}

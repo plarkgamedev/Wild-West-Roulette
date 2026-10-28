@@ -22,18 +22,16 @@ public class PitBullet : MonoBehaviour
 
         if (def != null && def.modelOverride != null)
         {
-            // Unique model: replaces the default bullet and keeps its own colors.
             defaultVisual.SetActive(false);
             var m = Instantiate(def.modelOverride, transform);
             m.transform.localPosition = Vector3.zero;
             m.transform.localRotation = Quaternion.identity;
             m.transform.localScale = Vector3.one * def.modelScale;
-            foreach (var c in m.GetComponentsInChildren<Collider>()) Destroy(c);    // only the root collides
+            foreach (var c in m.GetComponentsInChildren<Collider>()) Destroy(c);
             foreach (var r in m.GetComponentsInChildren<Rigidbody>()) Destroy(r);
         }
         else
         {
-            // Default model: the rarity color is a tint on the material.
             var block = new MaterialPropertyBlock();
             foreach (var r in defaultVisual.GetComponentsInChildren<Renderer>())
             {
@@ -52,11 +50,21 @@ public class PitBullet : MonoBehaviour
         gameObject.SetActive(false);
     }
 
+    // Q: puts the bullet back exactly where it was picked up.
     public void PutBack()
     {
         transform.SetPositionAndRotation(homePos + Vector3.up * 0.05f, homeRot);
         rb.linearVelocity = Vector3.zero;
         rb.angularVelocity = Vector3.zero;
         gameObject.SetActive(true);
+    }
+
+    // Cylinder screen: drops the bullet at a new spot (the player's feet).
+    public void DropAt(Vector3 position)
+    {
+        transform.SetPositionAndRotation(position, Random.rotation);
+        gameObject.SetActive(true);
+        rb.linearVelocity = Vector3.down * 0.5f;
+        rb.angularVelocity = Random.insideUnitSphere * 2f;
     }
 }

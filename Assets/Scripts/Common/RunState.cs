@@ -13,7 +13,7 @@ public class RunState
 
     // Slot output
     public Rarity[] LastSlotResult;
-    public int PitSize = 100;
+    public int PitSize = 1000;
     public int[] PitReelCounts;          // [White, Blue, Purple, Legendary]
     public float[] PitPercentages;       // chance per bullet, 0 to 100
 

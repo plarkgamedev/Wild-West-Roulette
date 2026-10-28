@@ -2,21 +2,20 @@ using UnityEngine;
 
 public class BulletInstance
 {
-    public BulletDefinition Definition;   // null for plain fallback bullets
+    public BulletDefinition Definition;
     public Rarity Rarity;
     public string DisplayName;
     public float DamageMultiplier;
     public int Weight;
     public string EffectName;
     public string EffectDescription;
+    public string BeforeEffect;
+    public string DuringEffect;
+    public string AfterEffect;
+    public string FlavorText;
     public Sprite Icon;
 
-    public static BulletInstance Create(PitConfig cfg, Rarity rarity, System.Random rng)
-    {
-        var def = cfg.Pick(rarity, rng);
-        return def != null ? FromDefinition(cfg, def) : Plain(cfg, rarity);
-    }
-
+    // Every bullet comes from a Bullet Definition you made.
     public static BulletInstance FromDefinition(PitConfig cfg, BulletDefinition def) => new BulletInstance
     {
         Definition = def,
@@ -26,17 +25,10 @@ public class BulletInstance
         Weight = Mathf.Max(0, cfg.WeightOf(def.rarity) + def.extraWeight),
         EffectName = def.effectName,
         EffectDescription = def.effectDescription,
+        BeforeEffect = def.beforeEffect,
+        DuringEffect = def.duringEffect,
+        AfterEffect = def.afterEffect,
+        FlavorText = def.flavorText,
         Icon = def.icon != null ? def.icon : cfg.genericIcon
-    };
-
-    public static BulletInstance Plain(PitConfig cfg, Rarity rarity) => new BulletInstance
-    {
-        Rarity = rarity,
-        DisplayName = rarity + " Bullet",
-        DamageMultiplier = cfg.DefaultMultiplier(rarity),
-        Weight = cfg.WeightOf(rarity),
-        EffectName = "",
-        EffectDescription = "",
-        Icon = cfg.genericIcon
     };
 }
